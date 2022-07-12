@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+}
+
+.menu {
+    display: flex;
+}
+
+.button {
+    display: block;
+    width: 25%;
+    text-decoration: none;
+    background-color: #B7A7AE;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.button:hover {
+    background-color: #58545B;
+    color: #B7A7AE;
+    transition: 0.5s;
+}
